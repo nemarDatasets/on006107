@@ -1,0 +1,21 @@
+{
+  "Name": "Spatial_volatility",
+  "BIDSVersion": "1.7.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Naoto Kuroda",
+    "Eishi Asano",
+    "Nobukazu Nakasato"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "N/A",
+  "Funding": ["N/A"],
+  "EthicsApprovals": ["IRBs of Wayne State University and Tohoku University"],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:"
+}
