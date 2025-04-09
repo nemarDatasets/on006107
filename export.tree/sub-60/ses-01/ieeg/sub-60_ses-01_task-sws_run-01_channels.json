@@ -1,1 +1,0 @@
-{"resection":{"Description":"Indicates whether the electrode contact was located in the resected brain area","Levels":{"resected":"Contact was within the resected area","preserved":"Contact was within the preserved (non-resected) area"},"MissingValues":["n/a"]}}
