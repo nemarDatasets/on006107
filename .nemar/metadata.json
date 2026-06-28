@@ -15,15 +15,10 @@
       "term": "intracranial EEG"
     },
     {
-      "term": "iEEG"
+      "term": "epilepsy"
     },
     {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "neural activity"
+      "term": "neural dynamics"
     },
     {
       "term": "spatial volatility"
