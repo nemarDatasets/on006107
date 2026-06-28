@@ -1,7 +1,8 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "iEEG_Neural_spatial_volatility",
+  "description": "This intracranial electroencephalography (iEEG) dataset contains neural recordings from patients with epilepsy, designed to investigate spatial volatility of neural activity patterns. The dataset includes raw iEEG signals acquired from implanted electrodes and is intended to support research on neural dynamics and epileptogenic zone localization.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -9,12 +10,29 @@
     "Eishi Asano": {},
     "Nobukazu Nakasato": {}
   },
-  "related_identifiers": [
+  "keywords": [
     {
-      "identifier": "10.18112/openneuro.ds006107.v1.0.0",
-      "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "term": "intracranial EEG"
     },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "neural activity"
+    },
+    {
+      "term": "spatial volatility"
+    },
+    {
+      "term": "brain mapping"
+    }
+  ],
+  "related_identifiers": [
     {
       "identifier": "https://github.com/nemarDatasets/on006107",
       "identifier_type": "URL",
@@ -24,6 +42,11 @@
       "identifier": "https://nemar.org/dataset/on006107",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds006107.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
     }
   ],
   "funding_references": [
@@ -32,39 +55,19 @@
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
-    "0.0 KB (1 files)"
+    "12.7 GB (167 files)"
   ],
   "formats": [
     ".edf",
     ".json",
     ".md",
-    ".tsv"
+    ".tsv",
+    ".yml"
   ],
-  "description": "This intracranial electroencephalography (iEEG) dataset investigates neural spatial volatility in patients undergoing clinical evaluation. This dataset is a NEMAR mirror of the OpenNeuro ds006107 dataset. The dataset contains raw iEEG recordings collected from multiple subjects and is intended to support research on spatiotemporal dynamics of neural activity and clinical applications in epilepsy monitoring and localization.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "iEEG"
-    },
-    {
-      "term": "neural dynamics"
-    },
-    {
-      "term": "spatial volatility"
-    },
-    {
-      "term": "epilepsy"
-    },
-    {
-      "term": "brain mapping"
-    }
-  ],
-  "source_hash": "c1cb6de9cb63ebaf0f747e585a9fc7e21b62cc6858e4333dd9a252d5ef805ff3"
+  "source_hash": "7dcb5dfa8c63a271db0c9826df1da6aa7c2de342e5c01bba5e8ef15aa05f91e6"
 }
