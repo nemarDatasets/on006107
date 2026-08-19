@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "iEEG_Neural_spatial_volatility",
-  "description": "This intracranial electroencephalography (iEEG) dataset contains neural recordings from patients with epilepsy, designed to investigate spatial volatility of neural activity patterns. The dataset includes raw iEEG signals acquired from implanted electrodes and is intended to support research on neural dynamics and epileptogenic zone localization.",
+  "description": "This dataset contains intracranial EEG (iEEG) recordings collected from patients undergoing clinical evaluation, used to investigate the spatial volatility of neural activity across brain regions. The data are shared to support research into cortical dynamics and epilepsy-related networks, and were collected under ethical approval from Wayne State University and Tohoku University institutional review boards.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -12,19 +12,21 @@
   },
   "keywords": [
     {
+      "term": "iEEG"
+    },
+    {
       "term": "intracranial EEG"
     },
     {
-      "term": "epilepsy"
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
       "term": "neural dynamics"
     },
     {
-      "term": "spatial volatility"
-    },
-    {
-      "term": "brain mapping"
+      "term": "cortical connectivity"
     }
   ],
   "related_identifiers": [
