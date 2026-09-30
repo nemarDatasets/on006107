@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "iEEG_Neural_spatial_volatility",
-  "description": "This dataset contains intracranial EEG (iEEG) recordings collected from patients undergoing clinical evaluation, used to investigate the spatial volatility of neural activity across brain regions. The data are shared to support research into cortical dynamics and epilepsy-related networks, and were collected under ethical approval from Wayne State University and Tohoku University institutional review boards.",
+  "description": "Intracranial EEG (iEEG) dataset titled 'Neural spatial volatility', collected by Kuroda, Asano, Nakasato and colleagues, with ethics approval from the IRBs of Wayne State University and Tohoku University. The dataset is organized in BIDS format and mirrored on NEMAR from its original OpenNeuro deposit (ds006107).",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -18,15 +18,12 @@
       "term": "intracranial EEG"
     },
     {
-      "term": "Epilepsy",
+      "term": "Electrocorticography",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
     },
     {
-      "term": "neural dynamics"
-    },
-    {
-      "term": "cortical connectivity"
+      "term": "neural spatial volatility"
     }
   ],
   "related_identifiers": [
@@ -57,7 +54,7 @@
     "ieeg"
   ],
   "sizes": [
-    "12.7 GB (167 files)"
+    "11.83 GB (167 files)"
   ],
   "formats": [
     ".edf",
