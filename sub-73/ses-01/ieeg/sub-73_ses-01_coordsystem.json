@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "fsaverage",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "FreeSurfer average brain (fsaverage) space, mm. Not stated in this deposit; inferred, not documented: 64 of the 64 contacts of this file have x/y/z identical (compared to 0.001 mm) to sub-29/ses-01/ieeg/sub-29_ses-01_electrodes.tsv in nemarDatasets/on005545 at commit 948f2825, a deposit from the same group whose README states MNI305/MNI-305. Positions do not attach to channels without a channel-to-contact name mapping."
+}
