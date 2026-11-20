@@ -1,0 +1,7 @@
+{
+  "iEEGCoordinateSystem": "fsaverage",
+  "iEEGCoordinateSystemDescription": "fsaverage template space. The authors named no template; the frame was found by geometric verification.",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateProcessingDescription": "Computed by NEMAR (ieeg-geometry 0.1.0): coordinate frame of sub-63/ses-01/ieeg/sub-63_ses-01_electrodes.tsv labeled fsaverage; evidence: blind trial; contacts: all 138 contacts pooled (median 0.62 mm, 90th percentile 1.00 mm); reference surface: fsaverage; grade specific; source file sub-63/ses-01/ieeg/sub-63_ses-01_electrodes.tsv. Units assumed mm, confirmed by the fit.",
+  "iEEGCoordinateProcessingReference": "https://docs.nemar.org/data/ieeg-geometry/"
+}

@@ -1,0 +1,4820 @@
+{
+  "paths": {
+    "sub-01/ses-01/ieeg/sub-01_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "1c63361c4830636c77e2dc297b93993917df40ee",
+          "path": "sub-01/ses-01/ieeg/sub-01_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "a7d7150fccddebb1d8048965d94cd0d04f8f1d11282c7feb87be878ba5513084",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.586,
+        "median_mm": 0.727,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 116,
+        "n_used": 116,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.039,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-02/ses-01/ieeg/sub-02_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e40d3ed9599a9a9d068359510156398b387c2cba",
+          "path": "sub-02/ses-01/ieeg/sub-02_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "8247598dd0f4a4f6f63e64d6e9e14a3f2e955c00faf858f92c5f7f3708fe55f8",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.501,
+        "median_mm": 0.624,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 122,
+        "n_used": 122,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.926,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-03/ses-01/ieeg/sub-03_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "202926a48412f3e744e5d526c5e5427babdbf094",
+          "path": "sub-03/ses-01/ieeg/sub-03_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "05819af19fb75f807f9e98b124109b5e996cdca7db36815105aa6742af197dca",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.172,
+        "median_mm": 0.603,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.966,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-04/ses-01/ieeg/sub-04_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "8b0cecaaa52d3d792e1b0a01ea0c61df8c3c06a9",
+          "path": "sub-04/ses-01/ieeg/sub-04_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "6391f6314776d9484c9709402baaf77720c648a4c148f89ce054dd2cf97d0a7f",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.107,
+        "median_mm": 0.698,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 64,
+        "n_used": 64,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.985,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-05/ses-01/ieeg/sub-05_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "14ea9c140d46adc64a0548b60c75f398b8cd6b33",
+          "path": "sub-05/ses-01/ieeg/sub-05_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "efa1b25bfd9cd03fac0c258718f3f13474b7e31488ff3cacf0027a37cacedf15",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.234,
+        "median_mm": 0.728,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.991,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-06/ses-01/ieeg/sub-06_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a8f96ad4cdb2a3e78835000b1b432f0127be99b6",
+          "path": "sub-06/ses-01/ieeg/sub-06_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "3e07b0c17028bbc68b2ddf3dfd2ec6cbcb451443f8f6ab102b71b6bb01d19844",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.316,
+        "median_mm": 0.711,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 100,
+        "n_used": 100,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.102,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-07/ses-01/ieeg/sub-07_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "4729140ec84a3a647606ff3a52b08726cb4de3cc",
+          "path": "sub-07/ses-01/ieeg/sub-07_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "67afe743d47ab50062488c6eadc01d4086915f13be262b5c2d1855223292a7bf",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.376,
+        "median_mm": 0.739,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 124,
+        "n_used": 124,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.071,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-08/ses-01/ieeg/sub-08_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "3932e27d41e9eeb31694de9ba15136fd2843be2f",
+          "path": "sub-08/ses-01/ieeg/sub-08_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "07eec188ee52a0a9d598999e7dca55a971a476579b68a7f3fd660bb60061990c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.507,
+        "median_mm": 0.739,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 138,
+        "n_used": 138,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.083,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-09/ses-01/ieeg/sub-09_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "cf5296372aa3346379542ee56f2f5148ffd39fc7",
+          "path": "sub-09/ses-01/ieeg/sub-09_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "6f76a6a16d2e556d7ba9e01633c65fa41f52db085de5671e2370aece46477a02",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.387,
+        "median_mm": 0.652,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.048,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-10/ses-01/ieeg/sub-10_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "5f494ab21e1b456613ddf3892e9023887ad50bea",
+          "path": "sub-10/ses-01/ieeg/sub-10_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c3bfd8a2fc064687b617975cb07d5c374a2fde6ded6b9213834d8a735ec31f37",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.467,
+        "median_mm": 0.734,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.051,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-100/ses-01/ieeg/sub-100_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a0b13f30ce7ef0aed5227f87d1ef1b30f5e84a13",
+          "path": "sub-100/ses-01/ieeg/sub-100_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "8a4de0461471ce36587d9f92f22670e6984c46ef14125149c878d448aee9b6b8",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.298,
+        "median_mm": 0.607,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 100,
+        "n_used": 100,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.97,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-101/ses-01/ieeg/sub-101_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e9ccb188031580baf239670d10ad6cf75cd5d014",
+          "path": "sub-101/ses-01/ieeg/sub-101_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "6e6b7ed2db7508f077bd33556be6adae448ed679e3f183034e0b7bba729949a4",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.386,
+        "median_mm": 0.776,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 108,
+        "n_used": 108,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.088,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-102/ses-01/ieeg/sub-102_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "682786a060c2d49e662529032473784aa1214ef9",
+          "path": "sub-102/ses-01/ieeg/sub-102_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9b82b29d3560f0a4006735638896d1d738408f2971064980f376185265ce3f53",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.507,
+        "median_mm": 0.6,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 98,
+        "n_used": 98,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.98,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-103/ses-01/ieeg/sub-103_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "0fa55461fa181aad3c2335d8197baab8702e2c42",
+          "path": "sub-103/ses-01/ieeg/sub-103_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "a7caa4fd8743017e4a4664afa8e11197334643241c74a3a7227d3318fff6f316",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.209,
+        "median_mm": 0.599,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 132,
+        "n_used": 132,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.939,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-104/ses-01/ieeg/sub-104_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "52c838f038bf3dfbcb16fc6ee5e6a6f494ebd7c7",
+          "path": "sub-104/ses-01/ieeg/sub-104_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "97c57067e4311c9df6cf5046f95acb09bdf035a8138aa3f7989dc8ab44ef1c8d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.454,
+        "median_mm": 0.639,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 104,
+        "n_used": 104,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.009,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-105/ses-01/ieeg/sub-105_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "f7e61aa0eca483555b18e4389fb0b691e068aef1",
+          "path": "sub-105/ses-01/ieeg/sub-105_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "ad4de23fd79b2bc6a3dfdb80a04e441bb5c59d9a4e43b712c0870a6e85addad1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.384,
+        "median_mm": 0.682,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 106,
+        "n_used": 106,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.033,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-106/ses-01/ieeg/sub-106_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "01827ef3d2508ea68b23fefd8be0af236b278040",
+          "path": "sub-106/ses-01/ieeg/sub-106_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "65402a061847ebd9f26d7fc3a8f03b3f5b38a8eef37df16781b3350364ec95c2",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.562,
+        "median_mm": 0.651,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.012,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-107/ses-01/ieeg/sub-107_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "8f36e386b6f241c461aa84a913704e9c8405a336",
+          "path": "sub-107/ses-01/ieeg/sub-107_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "a3dd13d406546d5ee6ce934282ae9c7fce27a4e149bcbf1a5310470707c278b2",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.401,
+        "median_mm": 0.686,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 124,
+        "n_used": 124,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.976,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-108/ses-01/ieeg/sub-108_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "2e2283fe7ca3d9a18ae4ee0dcc6082663fc63d52",
+          "path": "sub-108/ses-01/ieeg/sub-108_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "13d8cc9429148e20d051c6ea448fb1df10066ad0b07e7241049d950689f92b12",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.322,
+        "median_mm": 0.614,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 150,
+        "n_used": 150,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.985,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-109/ses-01/ieeg/sub-109_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "68b8cb2e35ba35f951ca89ea49e8c88bcca2766e",
+          "path": "sub-109/ses-01/ieeg/sub-109_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "a35292dbf7a4eb8c5648249a25b50f78caf796f67747b5e99c68a57d8c3eb2e2",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.091,
+        "median_mm": 0.624,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 56,
+        "n_used": 56,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.897,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-11/ses-01/ieeg/sub-11_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "9562ad03d3111c908e6e94d208576ef5ea62d6a5",
+          "path": "sub-11/ses-01/ieeg/sub-11_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "e6a1f86eb84d240e2c65422836d441da6894443703413ee7ee995703040b30d9",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.43,
+        "median_mm": 0.828,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.068,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-110/ses-01/ieeg/sub-110_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "41f4b8507d4fc87c4876371b20d6aa5565782d60",
+          "path": "sub-110/ses-01/ieeg/sub-110_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "19495b1232cc8be6fcd35a2852f2d3d5acc151a21f3b69aa1822515c2cebedb6",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.291,
+        "median_mm": 0.605,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.962,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-111/ses-01/ieeg/sub-111_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "c2afc97d7ab45bb0cfa0e0ddcb3ee618a8ae300b",
+          "path": "sub-111/ses-01/ieeg/sub-111_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "215c093d3c613c25218c4fba02961ae5759907914e90fbaebe77397e7fd8e049",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.391,
+        "median_mm": 0.728,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.096,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-112/ses-01/ieeg/sub-112_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "bca0b3b97ee39fd4397937a3d5b5a8533ca22bb9",
+          "path": "sub-112/ses-01/ieeg/sub-112_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "72443ce9dbdd02b601095f02445c01752c50d452e899a201c9093556c3a3f365",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.207,
+        "median_mm": 0.602,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 108,
+        "n_used": 108,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.939,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-113/ses-01/ieeg/sub-113_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "36aab3c7c31dbecb0e1735b4a5d916c6f2bf92ce",
+          "path": "sub-113/ses-01/ieeg/sub-113_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9b0db81cc8e4fe05d7d5926aff2c1483143692c43069dd92c0a8e7dcfa48327a",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.366,
+        "median_mm": 0.656,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 120,
+        "n_used": 120,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.042,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-114/ses-01/ieeg/sub-114_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "5954903941d1b2ecd91e82d1afeb4a805b279b44",
+          "path": "sub-114/ses-01/ieeg/sub-114_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "8653580624701ef1b2ce5fcfc3de0ceb6eee875e95e35a9390762598b398da6b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.491,
+        "median_mm": 0.622,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 104,
+        "n_used": 104,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.972,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-115/ses-01/ieeg/sub-115_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "cd2a82af6b67c5cd3fc3051f5eecbce7f5e402ed",
+          "path": "sub-115/ses-01/ieeg/sub-115_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "dc5cd8c0a802704f6a4ec7f09d9a3f25e9711f55e1e99a46184b6f1aafa3de7b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.382,
+        "median_mm": 0.702,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.977,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-116/ses-01/ieeg/sub-116_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "3d1fae0164f7dbf445acc111356a106372c61651",
+          "path": "sub-116/ses-01/ieeg/sub-116_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "7e86a71028b03c1e350f4003c75ca9bb9926cc55aaad4095bdf25802a6b413e2",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.359,
+        "median_mm": 0.668,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.056,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-117/ses-01/ieeg/sub-117_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "57c779f70e27f601761094478d784a23f0a659f9",
+          "path": "sub-117/ses-01/ieeg/sub-117_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9c7756b4de8f9c8e25e6c1a730960c8da7f1855b62c5bdc0cd02e438df8dfd3c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.497,
+        "median_mm": 0.759,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 140,
+        "n_used": 140,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.054,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-118/ses-01/ieeg/sub-118_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "8fc8927e007cbb8a738346cc381fa251d4286ef9",
+          "path": "sub-118/ses-01/ieeg/sub-118_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9884dec52f87af179bddbc8c54ea9f7183b30a74ca6cf07e86cfc9827317ebcd",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.179,
+        "median_mm": 0.597,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 118,
+        "n_used": 118,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.942,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-119/ses-01/ieeg/sub-119_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e87859f1d821a1b0358c0e0ad6804d4872174b18",
+          "path": "sub-119/ses-01/ieeg/sub-119_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "33668202ce7649a137774b62cd8b1ba4c5fc265b705294495696aef1fe65c942",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.401,
+        "median_mm": 0.748,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.056,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-12/ses-01/ieeg/sub-12_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "97eb72e33d2e9a8cccfc5858084a59583d604b45",
+          "path": "sub-12/ses-01/ieeg/sub-12_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "f9b4578e9bd85406f5aa4e1ce305f084653bf092f2f614434d1ed06824355778",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.569,
+        "median_mm": 0.79,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.049,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-120/ses-01/ieeg/sub-120_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "162c09de51d17a790a9b207b405bf8fdf0cb32e3",
+          "path": "sub-120/ses-01/ieeg/sub-120_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "fa6803e62b4b1fc1f2b33762e2119b377b44a7cc9c01432199e9a53a0a5c7627",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.393,
+        "median_mm": 0.738,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.071,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-121/ses-01/ieeg/sub-121_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "2d80992606114d4bc41c1b0738dac4a9d4362e4e",
+          "path": "sub-121/ses-01/ieeg/sub-121_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "1fa75164bcda4e9183f7c6e12f888b7c9a0e44b65c4fe4a08285ce2e3f6616ac",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.492,
+        "median_mm": 0.688,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 124,
+        "n_used": 124,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.083,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-122/ses-01/ieeg/sub-122_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "8d681c3cd5d3dc5ba3fb8e7e9fdf7fa3ed3a1e75",
+          "path": "sub-122/ses-01/ieeg/sub-122_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "e7cef399ab553f0fafd9271e2a489da069ecaba61d48861ff949d675d88e409f",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.327,
+        "median_mm": 0.718,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.94,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-123/ses-01/ieeg/sub-123_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "0a54d61cdeba73cdf49753e092bacebd70507202",
+          "path": "sub-123/ses-01/ieeg/sub-123_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "4b10e14dd9ae8d2208b57163bb305ef075102681df81a31e54c24c10fb369645",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.386,
+        "median_mm": 0.664,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 110,
+        "n_used": 110,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.05,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-124/ses-01/ieeg/sub-124_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "fd38d8571128c44eb5fa355cf79891c9405744ec",
+          "path": "sub-124/ses-01/ieeg/sub-124_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c197a64711c274477714af7392c6350f230d7d812441abeaa7179ebb0c079ab1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.392,
+        "median_mm": 0.674,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 144,
+        "n_used": 144,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.965,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-125/ses-01/ieeg/sub-125_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "25c6afd0d7b9c480f5a432edf530ff24061925c2",
+          "path": "sub-125/ses-01/ieeg/sub-125_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c54d5de5e58f8ccf4c057f61bea384f8d7e002e708753e9fdbedfa57c8f2beda",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.451,
+        "median_mm": 0.692,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.036,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-126/ses-01/ieeg/sub-126_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "bf0903ec5bb2f3ddd0b846f9ecd8676880c06701",
+          "path": "sub-126/ses-01/ieeg/sub-126_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "5b409deb27497b403a59c0e506148bf6f7b9d750830060592f5415ba1ab6d64d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.249,
+        "median_mm": 0.615,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 140,
+        "n_used": 140,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.954,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-127/ses-01/ieeg/sub-127_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "99fde59dd12a378a0294e315f787619e852a2543",
+          "path": "sub-127/ses-01/ieeg/sub-127_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9ffdb966cfab0a75a2758b07be8f83a577ba276e7a5093a7422b4e9d202d454b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.493,
+        "median_mm": 0.753,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.042,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-128/ses-01/ieeg/sub-128_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "9efaca288f5e4f19597659076031c867c48d48a3",
+          "path": "sub-128/ses-01/ieeg/sub-128_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "bde6610b88b6c0b9dc737fc5ccd6dfdc2f32af2b97acc801d29f1890eb3f176e",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.469,
+        "median_mm": 0.609,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.069,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-129/ses-01/ieeg/sub-129_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "14592a323a43723abd634a4beb826aba2041d738",
+          "path": "sub-129/ses-01/ieeg/sub-129_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c7573803a0138eacf684ae9a43f1c139df793ea8a9a8802d96575908106ecaf6",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.734,
+        "median_mm": 0.604,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 155,
+        "n_used": 155,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.983,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-13/ses-01/ieeg/sub-13_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "c4ec743aacfb604d07d5bf1c06b47542ad5e04ac",
+          "path": "sub-13/ses-01/ieeg/sub-13_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "591887aa556309579b8ac3dfdba861048f4ccdfb3f71cb72458d434c6f554e65",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.49,
+        "median_mm": 0.667,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.047,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-130/ses-01/ieeg/sub-130_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "c9628a501c04c586d508e2a6700fc277248fdbe7",
+          "path": "sub-130/ses-01/ieeg/sub-130_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "8ad54f0aaead3128418d173fb807685f3e88852da76f0ad793e1324a019890d3",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.471,
+        "median_mm": 0.657,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 134,
+        "n_used": 134,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.06,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-131/ses-01/ieeg/sub-131_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e0e16f945cef6ad728cd9a9286350a21d11c9b44",
+          "path": "sub-131/ses-01/ieeg/sub-131_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "b8a7f6655692c0d249b2c5e736a0973ad476cd09275effd7bf5846fd81fc30cb",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.417,
+        "median_mm": 0.564,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 120,
+        "n_used": 120,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.891,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-132/ses-01/ieeg/sub-132_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "ff41a602ed4d9069e15fb87db0e383ce5e0ea6be",
+          "path": "sub-132/ses-01/ieeg/sub-132_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "bc6df8cd698352ecdc9d94b09b7e5032e203d8ce5ca2286d0030c66094ddfe2f",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.734,
+        "median_mm": 0.715,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 104,
+        "n_used": 104,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.047,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-133/ses-01/ieeg/sub-133_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "cdd507d7c0b3c682a3774264fc9cedfcfa581119",
+          "path": "sub-133/ses-01/ieeg/sub-133_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "b67d3b168a58e9b2560e5e33fc465c5397fd5a36d9c430d105f12802d1cd5c24",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.562,
+        "median_mm": 0.668,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 98,
+        "n_used": 98,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.043,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-134/ses-01/ieeg/sub-134_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "fda1c60f0563f02339c2fe635b08324305e8450e",
+          "path": "sub-134/ses-01/ieeg/sub-134_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9d76a7d20137643dab4f4ed2960565fc5d6c8e4c437c0a812cd0c77625e636d3",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.526,
+        "median_mm": 0.664,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 81,
+        "n_used": 81,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.023,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-135/ses-01/ieeg/sub-135_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "d6701ee7f4cd717fb16f34ebbd4623edd56dbfd5",
+          "path": "sub-135/ses-01/ieeg/sub-135_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c68cb588b14407bc13105f055a93ac6e7d947a8bfde91fadb9c139b0c52e1134",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.247,
+        "median_mm": 0.651,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 97,
+        "n_used": 97,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.997,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-136/ses-01/ieeg/sub-136_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "1625b2570f247b136e4e8813af37a5188e64dcaa",
+          "path": "sub-136/ses-01/ieeg/sub-136_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "b9e109444fcc3adcbb7f407caffb0250dd209fa7b43740b7322821c1e4c27397",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.391,
+        "median_mm": 0.738,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 110,
+        "n_used": 110,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.043,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-137/ses-01/ieeg/sub-137_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "c29adaafc9043e86c8c281420606396eb21c19ea",
+          "path": "sub-137/ses-01/ieeg/sub-137_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "62ff35124dbe98e2d40d89b471636e69241720e1666898335149be01df5dcb35",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.361,
+        "median_mm": 0.597,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 130,
+        "n_used": 130,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.028,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-138/ses-01/ieeg/sub-138_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "069de034db0cf41fbfea0f425cf6c63c9861c9db",
+          "path": "sub-138/ses-01/ieeg/sub-138_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9b0b32c65f66e50c6efd1bb260a71daaaf2689a76c2eaa77d5b8a281090db032",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.55,
+        "median_mm": 0.651,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 100,
+        "n_used": 100,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.018,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-139/ses-01/ieeg/sub-139_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "79d88f3417d0094a157f4ccf9a3523dd26de57dd",
+          "path": "sub-139/ses-01/ieeg/sub-139_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "a4ccd4af8ac942f301ad79e05dac0ee6dcbf82130ec16221fc267046febcb8c4",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.32,
+        "median_mm": 0.659,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 132,
+        "n_used": 132,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.058,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-14/ses-01/ieeg/sub-14_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "603310e93c5ae3e86c98998946dc094e7400599c",
+          "path": "sub-14/ses-01/ieeg/sub-14_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c3a2f6aaf5da8fb8f553b7dce22e18598583abbc4bf9e566d885cb0eb70a6bcb",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.426,
+        "median_mm": 0.665,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 120,
+        "n_used": 120,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.021,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-140/ses-01/ieeg/sub-140_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "44e9205a67abb4a079362fbb0ce275b13a6c8b63",
+          "path": "sub-140/ses-01/ieeg/sub-140_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "5d19243c9f443ff96e46a569f51eebe57efba60b43a29994530b6562a08fb62e",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.372,
+        "median_mm": 0.664,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 118,
+        "n_used": 118,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.021,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-141/ses-01/ieeg/sub-141_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "8e66fd8dda87fedcd77edfa42f7832281161b922",
+          "path": "sub-141/ses-01/ieeg/sub-141_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "685c14a6de20595e44e571255ef6deedee035111535b58caf34b504d5b2ece06",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.012,
+        "median_mm": 0.499,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 18,
+        "n_used": 18,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.866,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-142/ses-01/ieeg/sub-142_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "8708e8c4dbf92e158edaac6c44b56bdf2d570499",
+          "path": "sub-142/ses-01/ieeg/sub-142_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "4ce0fbf06fed6e6c7ad64577a2f14ca777a86f8d70a9ea5ac54bd5f85300d87c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.408,
+        "median_mm": 0.753,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 44,
+        "n_used": 44,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.131,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-143/ses-01/ieeg/sub-143_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "517876792ea68d8d5442cc85675643a4df68fbcc",
+          "path": "sub-143/ses-01/ieeg/sub-143_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "e2eba6e78f3058b4e5b41c6577cdbbc8329c413311de2d25323eab9e17fd1c9d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.457,
+        "median_mm": 0.778,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 58,
+        "n_used": 58,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.067,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-144/ses-01/ieeg/sub-144_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "8f716711a957405ab8274a9223279acec371ac18",
+          "path": "sub-144/ses-01/ieeg/sub-144_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "b5d0eed303255317daeb6e30a2dd5f8e57708470b21983bdbd53e1525a7fdcf8",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.227,
+        "median_mm": 0.705,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 80,
+        "n_used": 80,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.009,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-145/ses-01/ieeg/sub-145_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "cc57adf93a26a75429fd764b0fa146f7243d29dd",
+          "path": "sub-145/ses-01/ieeg/sub-145_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "a3c2d5de5d7add6f7752c299a95cae527ee8d2719249f5597fd1966dbf210a4b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.458,
+        "median_mm": 0.875,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 22,
+        "n_used": 22,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.169,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-147/ses-01/ieeg/sub-147_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a302945748e78decb70e4223055f842e2eac1bfa",
+          "path": "sub-147/ses-01/ieeg/sub-147_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "8cc312d6d916ac7f71c12a6a0668924fea1ce63ebb7ec1c6f78c81a0559049e5",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.2,
+        "median_mm": 0.606,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 84,
+        "n_used": 84,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.908,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-148/ses-01/ieeg/sub-148_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a8d6e15de5ca098d388ef8c23d039c06c727b3d5",
+          "path": "sub-148/ses-01/ieeg/sub-148_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "be7a8dee94cec7d0b72eb5e4c29fcc77b8fef6c5a0462a174b0e52515f8fa372",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.314,
+        "median_mm": 0.65,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 122,
+        "n_used": 122,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.026,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-149/ses-01/ieeg/sub-149_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "f963e65fa8c20b758f1b2cdaf8b1dc302c727e02",
+          "path": "sub-149/ses-01/ieeg/sub-149_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "08fec02e2af4d73bc5ca50300dd49d1baef7ea585b7b69ce8d685812e113da2c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.543,
+        "median_mm": 0.618,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 52,
+        "n_used": 52,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.968,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-15/ses-01/ieeg/sub-15_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "38d2a864b0c3a55b6ca8d3500b6ce83695486562",
+          "path": "sub-15/ses-01/ieeg/sub-15_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "0943136ddf71fc7080097b649b96be6cd88cab197c8502ef8a863c7fed2f8a26",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.328,
+        "median_mm": 0.734,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.119,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-150/ses-01/ieeg/sub-150_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e4b6bd5462393936f398e47f4417145ee56a7c41",
+          "path": "sub-150/ses-01/ieeg/sub-150_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "833a32d1af1cb3b7abaf37442db143f29f54c82f6dfd15dd1ce5541e79570e9c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.324,
+        "median_mm": 0.659,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 130,
+        "n_used": 130,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.003,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-150/ses-02/ieeg/sub-150_ses-02_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e4b6bd5462393936f398e47f4417145ee56a7c41",
+          "path": "sub-150/ses-02/ieeg/sub-150_ses-02_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "1ff83c2ba28bb5b188c21b26c766aa11ac2d7be80f18a5ae527f9f3d1df0af9c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.324,
+        "median_mm": 0.659,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 130,
+        "n_used": 130,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.003,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-151/ses-01/ieeg/sub-151_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "cb97700f7379bb2927485b3dfc4b717c7f8568a5",
+          "path": "sub-151/ses-01/ieeg/sub-151_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "7cd6776172e443dcf17c8e2e7aaeb6aaca8f179e24dc36b9913dc98dafc8b09c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.628,
+        "median_mm": 0.707,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 122,
+        "n_used": 122,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.075,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-152/ses-01/ieeg/sub-152_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e026f0e8bfaff77136109ffdfa179ea1968323f1",
+          "path": "sub-152/ses-01/ieeg/sub-152_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "464663c986663bf2bfa341b15a46cbdccdcb83f80a6c03e079ce3c0ebf350fe7",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.426,
+        "median_mm": 0.758,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 66,
+        "n_used": 66,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.185,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-153/ses-01/ieeg/sub-153_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "3ea871f7c53523309166e5920be6252a4daaf1f7",
+          "path": "sub-153/ses-01/ieeg/sub-153_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "85fef9c59cbba5ddbbc8ea207be373647c634ed9636133aca3c665fa27b2c442",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.469,
+        "median_mm": 0.77,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 102,
+        "n_used": 102,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.084,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-154/ses-01/ieeg/sub-154_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e08876987eed9a6ae2a769416440bbdcf7849064",
+          "path": "sub-154/ses-01/ieeg/sub-154_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "eba32b1e2c95dffcb85a320e521d831061689108f96fe7c9c1a4cb44e9c2c072",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.356,
+        "median_mm": 0.715,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 84,
+        "n_used": 84,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.038,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-155/ses-01/ieeg/sub-155_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "c175e95b3a258e903bccaff5aae4b72050fa8f08",
+          "path": "sub-155/ses-01/ieeg/sub-155_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "8530bc0cf53138f13fd73b2db8547e37168af95abef30bcdcdfc2fefe99cea15",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.291,
+        "median_mm": 0.732,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 58,
+        "n_used": 58,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.048,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-156/ses-01/ieeg/sub-156_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "7fa5aeb8896d7657191f6ba7218c21ef2699b9a7",
+          "path": "sub-156/ses-01/ieeg/sub-156_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "f2eaea8f441f0011146eadee2015ff0c2f0e5ca7aca122d1ab0844ed9592502d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.338,
+        "median_mm": 0.72,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 60,
+        "n_used": 60,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.093,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-157/ses-01/ieeg/sub-157_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "7783023c04d137cc8535307903564287bf1294d1",
+          "path": "sub-157/ses-01/ieeg/sub-157_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "fa9ba4cca891c2ae6a8d614554de8baef6aafefa9b6b55f22e99973e4fcc9bdb",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.13,
+        "median_mm": 0.661,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 46,
+        "n_used": 46,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.044,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-158/ses-01/ieeg/sub-158_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "9898d07166bab9e4988e41d1646acefcb04e1ac6",
+          "path": "sub-158/ses-01/ieeg/sub-158_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "8738542416602082e7e605c63d3a7102a561e70bf7a4526ee103a628b1da0269",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.57,
+        "median_mm": 0.75,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 60,
+        "n_used": 60,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.099,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-159/ses-01/ieeg/sub-159_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "b3de062102f9276491141615d72969b13ccf0dc1",
+          "path": "sub-159/ses-01/ieeg/sub-159_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "3a74d45e9bebfb6f723c212d7c83e52475335183db2eae1cf2c945fdd61af4f6",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.498,
+        "median_mm": 0.613,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 52,
+        "n_used": 52,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.982,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-16/ses-01/ieeg/sub-16_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "3cd6861196927d5ea0fa398e6f1ec7632f3cf47a",
+          "path": "sub-16/ses-01/ieeg/sub-16_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "d32724bf7336a59cc8b293c930a01cb1b06cdecc085d805251fe4cd00b6f8bb7",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.248,
+        "median_mm": 0.761,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 110,
+        "n_used": 110,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.084,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-160/ses-01/ieeg/sub-160_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "cc4a7169ba7bc16333d933fe4fd92aa35448841a",
+          "path": "sub-160/ses-01/ieeg/sub-160_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "b913de83bf2bdeb132a429075ac08865c8f4399431f82dd7e9b818a6cc251bb7",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.295,
+        "median_mm": 0.761,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 38,
+        "n_used": 38,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.091,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-161/ses-01/ieeg/sub-161_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "268388c0abf0e8c998ea6c1d109d49c9fc68adaf",
+          "path": "sub-161/ses-01/ieeg/sub-161_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "fd52b99f403bd3697ed66dd32eae337749b789ea0dc1b31f8cf787503f9ef233",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.303,
+        "median_mm": 0.753,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 95,
+        "n_used": 95,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.056,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-162/ses-01/ieeg/sub-162_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "77801bbea191b27a14a6a3721df025433ffe65c0",
+          "path": "sub-162/ses-01/ieeg/sub-162_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "143c033a6af8c866619aab9b8bc3d787978426ce8f7bded4360bc9c87683a015",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.342,
+        "median_mm": 0.736,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 52,
+        "n_used": 52,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.032,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-163/ses-01/ieeg/sub-163_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "d773e05df4273123e9ffb0bd495efeea42f21a7a",
+          "path": "sub-163/ses-01/ieeg/sub-163_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "1ed316697c660844550fcdd2860f90400b44e27052a22a56494b1b27e5f7b859",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.408,
+        "median_mm": 0.653,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 67,
+        "n_used": 67,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.96,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-164/ses-01/ieeg/sub-164_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e4c9d71e70f9aef82e9983b608d954c1c66ba411",
+          "path": "sub-164/ses-01/ieeg/sub-164_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9496d8ae44a33eddf94c313c4289d08f2f42f4194fafa4283e62497a73d70060",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.29,
+        "median_mm": 0.67,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 60,
+        "n_used": 60,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.049,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-165/ses-01/ieeg/sub-165_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "9c45b88231bb261696ce1c306328d3fd959e2c0e",
+          "path": "sub-165/ses-01/ieeg/sub-165_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "df7de3cbb2bb694d507ceb561327ce01c7e7b103d3851f63482b06e765d9341d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.234,
+        "median_mm": 0.79,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 36,
+        "n_used": 36,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.036,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-166/ses-01/ieeg/sub-166_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "2522edfe38ac754d9bc9eb434e1f8bc5a4e2c851",
+          "path": "sub-166/ses-01/ieeg/sub-166_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c124409feb934278caac7354c0ad7fad6073ca2b6a24b9fd9095300df370166a",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.081,
+        "median_mm": 0.639,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 46,
+        "n_used": 46,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.908,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-17/ses-01/ieeg/sub-17_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "1bd7b57a4bb705c9ae941bec75766b46cecc22be",
+          "path": "sub-17/ses-01/ieeg/sub-17_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "131241f7b3832e902476e7ac31cbef7ba3fc03b37bc9d7efd3b8cf6bbf83093b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.268,
+        "median_mm": 0.699,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 144,
+        "n_used": 144,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.027,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-18/ses-01/ieeg/sub-18_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "18063ac6d874fd227787698667e3c991b2bb4818",
+          "path": "sub-18/ses-01/ieeg/sub-18_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "6510beebf33e5db8c4742aeb570429be59c9e678806765ca8e9b82010bd6c46d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.479,
+        "median_mm": 0.738,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 116,
+        "n_used": 116,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.108,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-19/ses-01/ieeg/sub-19_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "add27743319ff6c0da33252b53c77581376ab418",
+          "path": "sub-19/ses-01/ieeg/sub-19_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "500c9646478934dda85183483792e762403712215d0df055c90a47ca2edaa1bf",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.406,
+        "median_mm": 0.666,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.978,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-20/ses-01/ieeg/sub-20_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "b0588465998a1092bf75fe3faac7a7c1a8364a42",
+          "path": "sub-20/ses-01/ieeg/sub-20_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "7623f11f9b2a8ac07ea5e0b969a3b0a65ca45c8a4c207b66c859f94e91a618b9",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.376,
+        "median_mm": 0.765,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.081,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-21/ses-01/ieeg/sub-21_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "284210b260b2806c95d28e4c9d49d801e9dec4bf",
+          "path": "sub-21/ses-01/ieeg/sub-21_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "931c6ba31c74a7f66007c695c7d8ca3cca0e487e656fd9bd8b56a41b92c844f2",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.256,
+        "median_mm": 0.747,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 120,
+        "n_used": 120,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.052,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-22/ses-01/ieeg/sub-22_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "3816e641676982fb03e65663d0923d13d6b98887",
+          "path": "sub-22/ses-01/ieeg/sub-22_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "1fafcf70ecc1e0d92448bfb9fc2aeddff175106c099c959c8446c54f8612ec21",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.386,
+        "median_mm": 0.763,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 58,
+        "n_used": 58,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.079,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-23/ses-01/ieeg/sub-23_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "28bfc47867c6984beb33f0f897f236c07d93aa75",
+          "path": "sub-23/ses-01/ieeg/sub-23_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "5d6f23a718d212ea400ad16a82bdcaea54c6e8ae9c2074dde1945fcc493618a1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.395,
+        "median_mm": 0.784,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 58,
+        "n_used": 58,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.222,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-24/ses-01/ieeg/sub-24_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e8dc8b4e942d1cf450162f05e309d5cfacbfcac4",
+          "path": "sub-24/ses-01/ieeg/sub-24_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "d03cfdff548b93b907270431da34caa1af0946b851618018cf41296112a59bc1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.506,
+        "median_mm": 0.576,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.035,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-25/ses-01/ieeg/sub-25_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "241463b6efdd6b7dce82367de0423abd2ec9976b",
+          "path": "sub-25/ses-01/ieeg/sub-25_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "eb64f408dff7b1f8e830e410b8ba83c44928976c1a2227545efd4216b2f0a15f",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.317,
+        "median_mm": 0.648,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.044,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-26/ses-01/ieeg/sub-26_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "6d5649316ef629dc11a89a0732db71583ae3c5ea",
+          "path": "sub-26/ses-01/ieeg/sub-26_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "2e01af3f51b124159089863a5d0761877d69ddcd94b6c129e21939a32aa0ac16",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.31,
+        "median_mm": 0.676,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.122,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-27/ses-01/ieeg/sub-27_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "7262c698883f3d67f31e8fb325f3d288f48b6025",
+          "path": "sub-27/ses-01/ieeg/sub-27_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "47bc64f1814c388830e820fbc2a93cf179b57c8bf1b69109561e31fbb29d2b6e",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.361,
+        "median_mm": 0.769,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.062,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-28/ses-01/ieeg/sub-28_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "189fde1caeb4db9f2216f0ac02a8fb84929b26a0",
+          "path": "sub-28/ses-01/ieeg/sub-28_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "7c9b997860e6f559d94531c80a0ffbe0a5126fc1257cfbf621e125b41bbb70e9",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.298,
+        "median_mm": 0.674,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.007,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-29/ses-01/ieeg/sub-29_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "04128315f4cf1915af6773e95e96d071a978ed9b",
+          "path": "sub-29/ses-01/ieeg/sub-29_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "6555eb22c9052c5f7f88317a69163d9d9090bc06beda0bdd755314b965a8486f",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.284,
+        "median_mm": 0.63,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 106,
+        "n_used": 106,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.01,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-30/ses-01/ieeg/sub-30_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "ea04e629951aaea7151efbbc2315a997dbec334d",
+          "path": "sub-30/ses-01/ieeg/sub-30_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "fab6e52bb303c5932ff0a004e5365274c521548d94136259662a3efdf470cf28",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.332,
+        "median_mm": 0.784,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 100,
+        "n_used": 100,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.123,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-31/ses-01/ieeg/sub-31_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "dd80cb16ee1ad7005bc97ec12362c3e33313ae3f",
+          "path": "sub-31/ses-01/ieeg/sub-31_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "880be009abd000642bb6cbade60805fd54119c6c8a06eb193ea03ecf45afa8a1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.423,
+        "median_mm": 0.587,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.969,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-32/ses-01/ieeg/sub-32_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "7dfb72bfc2087a8b218d3e11f6574fa0c37327d0",
+          "path": "sub-32/ses-01/ieeg/sub-32_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "e21df5f6ebe669bc146872e841f32debb69a70ddecd9de7bd0c811893b9fea06",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.32,
+        "median_mm": 0.714,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 98,
+        "n_used": 98,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.06,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-33/ses-01/ieeg/sub-33_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e7515523f0523561b6b7e66640d1508e648f2581",
+          "path": "sub-33/ses-01/ieeg/sub-33_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "52b0bee16988d7ca3b64b9aec96eab296704b22d7dc957f59513476b7ef616c2",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.265,
+        "median_mm": 0.603,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.006,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-34/ses-01/ieeg/sub-34_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "c690b69ba7799d2b3716b2189dc43f6587525e92",
+          "path": "sub-34/ses-01/ieeg/sub-34_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "efff5af39b52f1a6632829fd04014d59810f79abc0cdcd4ec49e08a852b0a07b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.545,
+        "median_mm": 0.716,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.122,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-35/ses-01/ieeg/sub-35_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "7f2edaca0b53f48e4f1a11d0923700cfc19856c3",
+          "path": "sub-35/ses-01/ieeg/sub-35_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "28a5b5c3040d17a5298ab0ba9e16e769652eb5ad097574d39a1046c2be0f120c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.323,
+        "median_mm": 0.64,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 124,
+        "n_used": 124,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.05,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-36/ses-01/ieeg/sub-36_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "457b02553575bbfddda63ee145c2ec88fa1996e0",
+          "path": "sub-36/ses-01/ieeg/sub-36_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "643a60f3412a48c8d7a429f1fa6d3f795dd399259dad0521648591400eccae7f",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.569,
+        "median_mm": 0.617,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 114,
+        "n_used": 114,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.109,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-37/ses-01/ieeg/sub-37_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "f32839eb6b350c37b9f37a1472c30e32231fb235",
+          "path": "sub-37/ses-01/ieeg/sub-37_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "d676ba38204af8c3d22cc92dfdc9ba93a229a14bd4b893e3942ae1df9e1bd741",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.534,
+        "median_mm": 0.718,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 102,
+        "n_used": 102,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.993,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-38/ses-01/ieeg/sub-38_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "6756c9e1a4b77c90d5f0445f4e0329827926376c",
+          "path": "sub-38/ses-01/ieeg/sub-38_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "31acc5c5d4f1ac9e910feee9575ab72800575670705a8987c49a299d5559a9cf",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.523,
+        "median_mm": 0.727,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 108,
+        "n_used": 108,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.092,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-39/ses-01/ieeg/sub-39_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "b9fbd56cd55d38d81d72bac46ac1fc40799750d5",
+          "path": "sub-39/ses-01/ieeg/sub-39_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "7a247cce196ad6dc3673e7ab521c6c50518a4b33e24644fb19d18be9acb86ff0",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.267,
+        "median_mm": 0.653,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 68,
+        "n_used": 68,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.953,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-40/ses-01/ieeg/sub-40_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "ea0f58deedbdda3342812fa893ee364a611ab77a",
+          "path": "sub-40/ses-01/ieeg/sub-40_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "e17927eb7e8408e8665de39c8bbd49d1f8603d5af3d1174b5f783240b739f3f3",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.361,
+        "median_mm": 0.732,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 104,
+        "n_used": 104,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.02,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-41/ses-01/ieeg/sub-41_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "2b52ad93f7a30d45c4b91390a44ea09c179de74d",
+          "path": "sub-41/ses-01/ieeg/sub-41_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "e1194a33e389bc354397fd73689c8206760a2d2398029be5d42b8b2d5adc987d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.442,
+        "median_mm": 0.672,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 80,
+        "n_used": 80,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.071,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-42/ses-01/ieeg/sub-42_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "9e45292f5d21ede5f0382bab8388d807bd1cb883",
+          "path": "sub-42/ses-01/ieeg/sub-42_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "81b1a642f673380976c5b215e0024dec27c44c264588b211dda43984c4103cc0",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.4,
+        "median_mm": 0.766,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.051,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-43/ses-01/ieeg/sub-43_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "19d60d843bc9f975d86334c8f67bee7fe6f019d8",
+          "path": "sub-43/ses-01/ieeg/sub-43_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "f0f3679fe753859765f5cb33808f50289be9fcdb1f0559d2ccb145906eb9804a",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.268,
+        "median_mm": 0.624,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.99,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-44/ses-01/ieeg/sub-44_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "35021e035673f8d58196ebb9e9351d8740a0046e",
+          "path": "sub-44/ses-01/ieeg/sub-44_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "429292718b2739a00da39d9e5c544901dc64ebf863e803a6010dfd198a642e6a",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.55,
+        "median_mm": 0.748,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 94,
+        "n_used": 94,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.025,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-45/ses-01/ieeg/sub-45_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "b4de7a0f763162b1da3ce9434f60b499d181373e",
+          "path": "sub-45/ses-01/ieeg/sub-45_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c96f8d7b50438b43680625189a75b533d23599222ff6f04eeb9593c927ce50b9",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.487,
+        "median_mm": 0.73,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 118,
+        "n_used": 118,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.03,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-46/ses-01/ieeg/sub-46_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "ae0374a285420a3d8e4b5c3e9ed59b91e28eb157",
+          "path": "sub-46/ses-01/ieeg/sub-46_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "781fd9099fc6e5a16ed0f47e5ba7f65768b0448aebda20effe87e43a971c346d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.388,
+        "median_mm": 0.666,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.004,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-47/ses-01/ieeg/sub-47_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "fbe801c26a4466a33d21febc7b1a8d5a19df5e1e",
+          "path": "sub-47/ses-01/ieeg/sub-47_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9c14b68f06c569c9fccd0b3da9ebff01a43e918beaa9585e611f43872f462f39",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.528,
+        "median_mm": 0.741,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 102,
+        "n_used": 102,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.048,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-48/ses-01/ieeg/sub-48_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "5dae342bbf4aaa6bb0879a9c820058a1ca1e1435",
+          "path": "sub-48/ses-01/ieeg/sub-48_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c819b93fa3083635f2c7c69f5fbfa2e86d8df282d54a3aa21aeb62aba08320e5",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.291,
+        "median_mm": 0.65,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 96,
+        "n_used": 96,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.985,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-49/ses-01/ieeg/sub-49_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "61f4a93480fb3554234c11d8ae057e2936fbf2cc",
+          "path": "sub-49/ses-01/ieeg/sub-49_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "01b23d4296ba74aaf7250a8d0978b3db90395ef15406f1f552a2bcd2fbc5d5fd",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.235,
+        "median_mm": 0.644,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 74,
+        "n_used": 74,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.982,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-50/ses-01/ieeg/sub-50_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "d0b34efc9305e0f11d942c4b5760c7222f080014",
+          "path": "sub-50/ses-01/ieeg/sub-50_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "aa77f511d50ea315b25e489fd6aad625e061ed5415c09a4e09869ca3b563b784",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.322,
+        "median_mm": 0.62,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.045,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-51/ses-01/ieeg/sub-51_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "fd77df27b3ef8880d74002513e52bd79f03111c4",
+          "path": "sub-51/ses-01/ieeg/sub-51_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "f33d818c09b48d5e8992e020ab0025f9b3517a639b60092ea2945ee931ce2b6d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.246,
+        "median_mm": 0.672,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.055,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-52/ses-01/ieeg/sub-52_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "14a5aa6a25803d59a7d15e62127b9d164327fd21",
+          "path": "sub-52/ses-01/ieeg/sub-52_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "5897e05e812a0adbb2d7a8fa715ca52aed294d286c183fe7ceedecc5672ce2b1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.316,
+        "median_mm": 0.723,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 102,
+        "n_used": 102,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.153,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-53/ses-01/ieeg/sub-53_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a153d9f18cf9774e8e4b71e6755b500c559956e2",
+          "path": "sub-53/ses-01/ieeg/sub-53_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "a2dd8f15e7786886bde38f0b2f912aa16e9abe4fdea867c8204d140b93cea57b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.606,
+        "median_mm": 0.682,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.068,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-54/ses-01/ieeg/sub-54_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "5913df82e88e487fba17d5d2d81fec4f27118d83",
+          "path": "sub-54/ses-01/ieeg/sub-54_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "b9e186651369530eb033f442cb1e39aaf02e3062682ad1f7472c3b9dc9b94ee0",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.59,
+        "median_mm": 0.697,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 106,
+        "n_used": 106,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.006,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-55/ses-01/ieeg/sub-55_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "abebec55f118c2057445c214ebf26a151daa9d91",
+          "path": "sub-55/ses-01/ieeg/sub-55_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "68909110a3a11efa1a2b2b3dc94980f186f1dbe51d6ed8f61c4a635ba9ea7fe3",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.341,
+        "median_mm": 0.637,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 108,
+        "n_used": 108,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.981,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-56/ses-01/ieeg/sub-56_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e56aaa6f867752e87ea6344ce43b8cb29355ba79",
+          "path": "sub-56/ses-01/ieeg/sub-56_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c54fe874614f22f81f14a858cd67a665bdbf7b8df6b7f9ec47e6bfac17933af1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.493,
+        "median_mm": 0.746,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.057,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-57/ses-01/ieeg/sub-57_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "0ea21bc79ebbd2ff4240d641478f42887596333e",
+          "path": "sub-57/ses-01/ieeg/sub-57_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "5a6838e899a63de1fb8d168f8dd53271283a46452bddd08192b12fca681872e9",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.598,
+        "median_mm": 0.648,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 124,
+        "n_used": 124,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.962,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-58/ses-01/ieeg/sub-58_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "719293fad1564f465a0e6ee5556bf4b80e111a71",
+          "path": "sub-58/ses-01/ieeg/sub-58_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "878afcaa8c2576bd599f6595ebd50fd61179fbdd7e91edc03ee32aeb62b12cb6",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.273,
+        "median_mm": 0.524,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 108,
+        "n_used": 108,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.96,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-59/ses-01/ieeg/sub-59_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "375ed8a976c3acfee660bc6c9c49c9a2c4e5c671",
+          "path": "sub-59/ses-01/ieeg/sub-59_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "0006dec98328f8323f46999f49bc5d7bb5237020d076797c3fa9b6c1d3bedd24",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.221,
+        "median_mm": 0.653,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.993,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-60/ses-01/ieeg/sub-60_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "1c312b922caba990918f26634a608592a234de3b",
+          "path": "sub-60/ses-01/ieeg/sub-60_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "10968d2deacd733dac98850c80ae1fa2a355aa3a2c2e4a85008baea7f324890d",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.391,
+        "median_mm": 0.742,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.122,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-61/ses-01/ieeg/sub-61_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "22ffcae3a8b37e0ed60df983265a23bc1f021f9a",
+          "path": "sub-61/ses-01/ieeg/sub-61_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "dd94188ef806d793dac1b49a6ee8794f5d242876d8e9dd8b22a6be461b540d21",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.231,
+        "median_mm": 0.654,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 104,
+        "n_used": 104,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.03,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-62/ses-01/ieeg/sub-62_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e376df03bf7c444feda03e8c81742131242e64d5",
+          "path": "sub-62/ses-01/ieeg/sub-62_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "fe3c61872b822ffaf8887af6ce780f51bc260394e33e4f2891f3ffe98e31be52",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.197,
+        "median_mm": 0.623,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.93,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-63/ses-01/ieeg/sub-63_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "6f32e5b277b6bcb5fab8aaa9a06a3bfde87039a4",
+          "path": "sub-63/ses-01/ieeg/sub-63_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "91d320339a7c9f420d64282dd8de9b47899f828116814631ae67a02adb907165",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.265,
+        "median_mm": 0.622,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 138,
+        "n_used": 138,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.001,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-64/ses-01/ieeg/sub-64_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a02734ec7236a3b67401cbb21adeb15989f26e79",
+          "path": "sub-64/ses-01/ieeg/sub-64_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "04f04d7dafce8aab62ba1a0ecded894a977b4e0057e616382b028473f556064c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.268,
+        "median_mm": 0.55,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.974,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-65/ses-01/ieeg/sub-65_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e888f28d7e74cf75bd41c407531ba849ab3dcc54",
+          "path": "sub-65/ses-01/ieeg/sub-65_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "234e25fd6a014ff863a43f9964f955e0caa15e8cdc9cf9c3596af52983851408",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.312,
+        "median_mm": 0.613,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 104,
+        "n_used": 104,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.941,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-66/ses-01/ieeg/sub-66_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "ea672152933226acfcbc8ae785028a1e3a9cc27b",
+          "path": "sub-66/ses-01/ieeg/sub-66_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "7845434374d1bee7066fb4e4e01c61c09dc32921ccf94b6de1076ab044cb546f",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.177,
+        "median_mm": 0.702,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 108,
+        "n_used": 108,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.977,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-67/ses-01/ieeg/sub-67_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "7e419100f960a8a36cf0b018f2993cebe4a29d7c",
+          "path": "sub-67/ses-01/ieeg/sub-67_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "ba2c39f32397b5568d8abb4fdd69b0f11a8b593e7a9c2d2932405b8183127639",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.448,
+        "median_mm": 0.62,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 120,
+        "n_used": 120,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.044,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-68/ses-01/ieeg/sub-68_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "2e171070bbbd966180e1c94893573c6635857ead",
+          "path": "sub-68/ses-01/ieeg/sub-68_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "bae287eb55aca70a41d23bea51111e4f08e87109891c5975ab3f3ae2fa64faf8",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.342,
+        "median_mm": 0.613,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 124,
+        "n_used": 124,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.037,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-69/ses-01/ieeg/sub-69_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e2cfe0081afa3915cd748f5818c0a97ef6d62aaa",
+          "path": "sub-69/ses-01/ieeg/sub-69_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "ca39c6e871f59fb28c3815e551ac1c477371f08c172fa8e5be13aa73af254c3b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.498,
+        "median_mm": 0.844,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 86,
+        "n_used": 86,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.215,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-70/ses-01/ieeg/sub-70_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "f826e8be87c1606bed1c7942ef67c42d0a9fe086",
+          "path": "sub-70/ses-01/ieeg/sub-70_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "edecb69b4ec39735b18bf0e7cb5b1cf408227003ae9a33b5040836be42c6fcf1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.271,
+        "median_mm": 0.632,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 118,
+        "n_used": 118,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.909,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-71/ses-01/ieeg/sub-71_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "2f5120793da50f84535bc5ff1c54a7234e15fe76",
+          "path": "sub-71/ses-01/ieeg/sub-71_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "561fa099b7a5665d9190e0938745900a8e38232af079b2abb738485ccf9a46eb",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.2,
+        "median_mm": 0.565,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 114,
+        "n_used": 114,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.94,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-72/ses-01/ieeg/sub-72_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "0eef2f8462b7b260dc0fd5f437459b51f971e812",
+          "path": "sub-72/ses-01/ieeg/sub-72_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "15bde4d0fea40244bfb11620376bcd5800269d74b42be7dc564ff461c899fd48",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.382,
+        "median_mm": 0.791,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 138,
+        "n_used": 138,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.101,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-73/ses-01/ieeg/sub-73_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "f3082794c4b12863eec0c6048aa2671f83e6a706",
+          "path": "sub-73/ses-01/ieeg/sub-73_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "ec9d943fbfc37cd1af3776ef5121bc734e57baf1e47cf609ab5d8e14f9abbee2",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.207,
+        "median_mm": 0.705,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 64,
+        "n_used": 64,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.977,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-74/ses-01/ieeg/sub-74_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a019160d478fd562f59e550ae96d32ad894e9f8a",
+          "path": "sub-74/ses-01/ieeg/sub-74_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "eb0ae437b4ef47c2609faa0865a38f15b813f4353a514a73a32bc72f036d00a1",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.513,
+        "median_mm": 0.601,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.968,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-75/ses-01/ieeg/sub-75_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "fe2011200d33209c19c5dbc1b2b578f959e8bb63",
+          "path": "sub-75/ses-01/ieeg/sub-75_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "2733c6e5f280c34b5409655fd7274253c20ed781abeca00f03d3dd6ca212dfc6",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.312,
+        "median_mm": 0.763,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 34,
+        "n_used": 34,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.076,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-76/ses-01/ieeg/sub-76_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "c879c84f2ad0360eb21e9fe726209e144cceddfd",
+          "path": "sub-76/ses-01/ieeg/sub-76_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9d6e15b4e623760d261663b3c337f06ca049121480a4fc737d9e81d84bd2c21e",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.64,
+        "median_mm": 0.612,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 144,
+        "n_used": 144,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.968,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-77/ses-01/ieeg/sub-77_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a0aae4e6755c4330eb73fdcf8ece2f2f2fadf27d",
+          "path": "sub-77/ses-01/ieeg/sub-77_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "1ee858db5196162fa11fa07c6132d783f930b4283a8c8c27582499651b6076ed",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.488,
+        "median_mm": 0.747,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 69,
+        "n_used": 69,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.126,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-78/ses-01/ieeg/sub-78_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "076a7f9593f7d684997f7fb9d3929599233dcf52",
+          "path": "sub-78/ses-01/ieeg/sub-78_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "298b7646a57dd76aea43b242df5554fb537e2d61c5e7ea845ba237d24c213458",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.59,
+        "median_mm": 0.764,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 102,
+        "n_used": 102,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.129,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-79/ses-01/ieeg/sub-79_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "3a59a517277cc9b0d999615c46d6e74f8c179eb7",
+          "path": "sub-79/ses-01/ieeg/sub-79_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "5df580ec257c47b799cdd79e22921e2db4b7c5b680cd1680182aa6145694e00e",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.279,
+        "median_mm": 0.68,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.0,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-80/ses-01/ieeg/sub-80_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "34abbe788146322e5fb18b926405e87f064d7a49",
+          "path": "sub-80/ses-01/ieeg/sub-80_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "af41eb96380cc1f4ffab86a3219d6867dcd7219cf61d30dc63cc0cea629cb6d9",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.734,
+        "median_mm": 0.727,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.104,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-81/ses-01/ieeg/sub-81_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "5e74bda808714015a175ae1504d250f95e96f2b7",
+          "path": "sub-81/ses-01/ieeg/sub-81_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "dda90bde768419a051247523348e5c67efcbe9f5ed4154cbb3e35f9d1cc7951b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.311,
+        "median_mm": 0.685,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 118,
+        "n_used": 118,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.045,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-82/ses-01/ieeg/sub-82_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "1123b26d06eaa572f8045b1249b4c2a683c2bc66",
+          "path": "sub-82/ses-01/ieeg/sub-82_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "2cf0e70cc9fdb82c86a33bb650a1efd6feca1b86d8d57ed9d859498fd5fc3e5b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.522,
+        "median_mm": 0.578,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 116,
+        "n_used": 116,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.961,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-83/ses-01/ieeg/sub-83_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "20128ee47c7f3a0527dd86af299b16ef5c4efe49",
+          "path": "sub-83/ses-01/ieeg/sub-83_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "32be1f93258c594e1f9fd36a9a2287999fc4793c48a1a0ed2305d9facbb10009",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.325,
+        "median_mm": 0.607,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 133,
+        "n_used": 133,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.96,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-84/ses-01/ieeg/sub-84_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "bacadda8d6828de6f26505546faa06b404962838",
+          "path": "sub-84/ses-01/ieeg/sub-84_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "b8ecc66bf5fe9acb534e39613489510ae1f276715d8643d52ff9abb30701a468",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.485,
+        "median_mm": 0.704,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 130,
+        "n_used": 130,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.057,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-85/ses-01/ieeg/sub-85_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "1a90817a859c36d0e09117bf569bc83e708c5e09",
+          "path": "sub-85/ses-01/ieeg/sub-85_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "e35d517f85ce961b9033fd30beb021b2ee297300761efd66717866e2eb0ccbb5",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.452,
+        "median_mm": 0.764,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 109,
+        "n_used": 109,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.117,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-86/ses-01/ieeg/sub-86_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "1e214120301cc20e281c79cee82fa7cd2fdaf83a",
+          "path": "sub-86/ses-01/ieeg/sub-86_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "62d29b26f32ba4cffb9cbc1a232d79257390f16a9873cd03edd9a5a9945b8989",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.474,
+        "median_mm": 0.701,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.04,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-87/ses-01/ieeg/sub-87_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "e75109455342291bed4670b7ba7e195e804ecc48",
+          "path": "sub-87/ses-01/ieeg/sub-87_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "b7fb2ab462d3ae635d4030c81c444c063389591a70c074556b78c43b6df465c3",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.345,
+        "median_mm": 0.653,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 164,
+        "n_used": 164,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.026,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-88/ses-01/ieeg/sub-88_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "d251ea9b6c36155cdac1b07ad57ffd4656c2db19",
+          "path": "sub-88/ses-01/ieeg/sub-88_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "c1760eb79ec5e451cb86fde35795db30fe2619583cbfe83e99511f8b22d557b9",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.367,
+        "median_mm": 0.738,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 138,
+        "n_used": 138,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.013,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-89/ses-01/ieeg/sub-89_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "8f1f0c72689032f1b2a61da425857690a2ddc403",
+          "path": "sub-89/ses-01/ieeg/sub-89_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "cb5567fa125ed5f67e917cd2628e984fdb08f6c736c78d14bcf803fa396cfd8b",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.564,
+        "median_mm": 0.648,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.015,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-90/ses-01/ieeg/sub-90_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "18097a3dec98e5900b7036dfa6e986fbe5809c04",
+          "path": "sub-90/ses-01/ieeg/sub-90_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "751ed7870b73801ec0af77e1b54e3ceff5ccbf307305422ac52ca0e072cf4de2",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.294,
+        "median_mm": 0.672,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 126,
+        "n_used": 126,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.072,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-91/ses-01/ieeg/sub-91_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "c3a2fc678f10472e8329b3f9fd64f7294732ab8b",
+          "path": "sub-91/ses-01/ieeg/sub-91_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "777105e0af89934719e5699dd64a1642c13de634329a133d6b72d6f9d56d2c64",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.446,
+        "median_mm": 0.775,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 106,
+        "n_used": 106,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.088,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-92/ses-01/ieeg/sub-92_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "48f60434f1cbb718ba955703cb389aa7ebca04d3",
+          "path": "sub-92/ses-01/ieeg/sub-92_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "0148c9a2981e1198b95e0670e7ccb72f23075f313b3c2e57a389734cf1686287",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.377,
+        "median_mm": 0.586,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 130,
+        "n_used": 130,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.022,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-93/ses-01/ieeg/sub-93_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "a89001c66b7791d1fa34d923a420b34a23044dcb",
+          "path": "sub-93/ses-01/ieeg/sub-93_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "8f8fa0566ef4c669ff7417d6fc5985602fd7c70e64a9554896948aaeac0b83e4",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.398,
+        "median_mm": 0.736,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 86,
+        "n_used": 86,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.979,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-94/ses-01/ieeg/sub-94_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "71df277bba4b338f5b99ca04c5d0ae47f4f4a382",
+          "path": "sub-94/ses-01/ieeg/sub-94_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "4026d05dbdb7426ef1886dcba2dbd709d8625b42b35bc4fffc1c64fe50eec09e",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.513,
+        "median_mm": 0.789,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 132,
+        "n_used": 132,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.105,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-95/ses-01/ieeg/sub-95_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "54d0133d32cc7449f5b2e5435cf02aea3dc9d6b4",
+          "path": "sub-95/ses-01/ieeg/sub-95_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "521838a15f1f79117d19603c1ffeb7f7ccddff24fa5a447f0ba5172677da68bc",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.54,
+        "median_mm": 0.571,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 126,
+        "n_used": 126,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.914,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-96/ses-01/ieeg/sub-96_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "189d6a56b326427e3c71d9fbe9ca230c8baa48f8",
+          "path": "sub-96/ses-01/ieeg/sub-96_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "9ded5cad18ac0a84bb5d42005e7049f971202d3bcf9f250e0530ec63d77cc04f",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.338,
+        "median_mm": 0.772,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 132,
+        "n_used": 132,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.03,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-97/ses-01/ieeg/sub-97_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "791e68687342d8a96b49ca3a18d365b72f0c6beb",
+          "path": "sub-97/ses-01/ieeg/sub-97_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "196ea0b7f4049e076be3f57670b4da183777d597a8a99ebba4950d096a795268",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.392,
+        "median_mm": 0.579,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 128,
+        "n_used": 128,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.907,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-98/ses-01/ieeg/sub-98_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "b875e39ad1ad544a3e7f1a3ac3caed05753c2dc1",
+          "path": "sub-98/ses-01/ieeg/sub-98_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "84909563736d6366a232a4c8d6d8947a412ac526bba71f648a67a145cf5aa44a",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.501,
+        "median_mm": 0.642,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 104,
+        "n_used": 104,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 0.989,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    },
+    "sub-99/ses-01/ieeg/sub-99_ses-01_coordsystem.json": {
+      "inputs": [
+        {
+          "blob": "46c050aab493e078d8687a11be040f9600ee8aa3",
+          "path": "sub-99/ses-01/ieeg/sub-99_ses-01_electrodes.tsv"
+        }
+      ],
+      "kind": "coordsystem",
+      "method": "label-inference:blind trial",
+      "output_sha256": "d692b9b695d143464c1e93b2572dee6c98d9e69a0a0b0c26d7d03b8efb2f6e6c",
+      "verification": {
+        "grade": "specific",
+        "inside_evaluated": false,
+        "inside_fraction": null,
+        "max_mm": 1.54,
+        "median_mm": 0.638,
+        "n_ambiguous": 0,
+        "n_left_out": 0,
+        "n_total": 112,
+        "n_used": 112,
+        "near_or_inside_fraction": null,
+        "offset_applied": null,
+        "p90_mm": 1.031,
+        "passed": true,
+        "reason": null,
+        "reference": "fsaverage",
+        "rule": "median <= 6.0 mm and >= 90% inside or within 5.0 mm"
+      }
+    }
+  },
+  "pipeline_version": "0.1.0",
+  "schema": 1
+}
