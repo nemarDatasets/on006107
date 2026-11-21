@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "iEEG_Neural_spatial_volatility",
-  "description": "Intracranial EEG (iEEG) dataset titled 'Neural spatial volatility', collected by Kuroda, Asano, Nakasato and colleagues, with ethics approval from the IRBs of Wayne State University and Tohoku University. The dataset is organized in BIDS format and mirrored on NEMAR from its original OpenNeuro deposit (ds006107).",
+  "description": "Intracranial EEG (iEEG) recordings from patients with implanted subdural electrodes, collected during a sleep task (task-sws) and released as a BIDS dataset. The data were collected at Wayne State University and Tohoku University, and the dataset is titled to reflect an analysis of neural spatial volatility. The NEMAR mirror carries corrected channel tables and electrode coordinate-system sidecars (fsaverage, mm).",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -21,6 +21,12 @@
       "term": "Electrocorticography",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "sleep"
+    },
+    {
+      "term": "subdural electrodes"
     },
     {
       "term": "neural spatial volatility"
@@ -63,5 +69,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "7dcb5dfa8c63a271db0c9826df1da6aa7c2de342e5c01bba5e8ef15aa05f91e6"
+  "source_hash": "db5d0dfe0d57228ae48d65a364e8271ea71769deeca0c817ce74b3191d6d40d5"
 }
