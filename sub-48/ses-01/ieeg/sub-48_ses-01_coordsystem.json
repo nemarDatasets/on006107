@@ -1,5 +1,5 @@
 {
   "iEEGCoordinateSystem": "fsaverage",
   "iEEGCoordinateUnits": "mm",
-  "iEEGCoordinateSystemDescription": "FreeSurfer average brain (fsaverage) space, mm. Not stated in this deposit; inferred, not documented: 96 of the 96 contacts of this file have x/y/z identical (compared to 0.001 mm) to sub-039/ses-1/ieeg/sub-039_ses-1_electrodes.tsv in nemarDatasets/on006233 at commit 396692f0, a deposit from the same group whose README states MNI305/MNI-305. Positions do not attach to channels without a channel-to-contact name mapping."
+  "iEEGCoordinateSystemDescription": "FreeSurfer fsaverage template, mm (surface RAS of fsaverage, whose volumetric frame is FreeSurfer's MNI305 space). Not stated in this deposit; inferred: every contact's x/y/z equals a vertex of the fsaverage pial surface (within 0.001 mm), consistent with FreeSurfer surface-based normalization of subdural contacts. Other deposits from the same group give identical coordinates and call the space MNI305 or fsaverage."
 }
