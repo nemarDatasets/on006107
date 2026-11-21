@@ -2,103 +2,108 @@
   "age": {
     "LongName": "",
     "Description": "age of the participant",
-    "Levels": {
-    },
-    "Units": "(years)",
+    "Units": "years",
     "TermURL": "http://www.todo.com/fixme"
   },
   "sex": {
     "LongName": "",
     "Description": "sex of the participant as reported by the participant",
     "Levels": {
+      "Male": "male",
+      "Female": "female"
     },
-    "Units": "Male or Female",
+    "Units": "",
     "TermURL": "http://www.todo.com/fixme"
   },
   "daily_seizure": {
     "LongName": "",
     "Description": "presence of daily seizures as reported by the participant",
     "Levels": {
+      "Presence": "daily seizures present",
+      "Absence": "daily seizures absent"
     },
-    "Units": "Presence or Absence",
+    "Units": "",
     "TermURL": "http://www.todo.com/fixme"
   },
   "asm": {
     "LongName": "",
     "Description": "Number of antiseizure medications",
-    "Levels": {
-    },
-    "Units": "(ASMs)",
+    "Units": "ASMs",
     "TermURL": "http://www.todo.com/fixme"
   },
   "resected_side": {
     "LongName": "",
     "Description": "Resected hemisphere",
     "Levels": {
+      "Left": "left hemisphere resected",
+      "Right": "right hemisphere resected"
     },
-    "Units": "Right or Left",
+    "Units": "",
     "TermURL": "http://www.todo.com/fixme"
   },
   "mri": {
     "LongName": "",
     "Description": "MRI-visible lesion",
     "Levels": {
+      "Presence": "MRI-visible lesion present",
+      "Absence": "MRI-visible lesion absent"
     },
-    "Units": "Presence or Absence",
+    "Units": "",
     "TermURL": "http://www.todo.com/fixme"
   },
   "seizure_capture": {
     "LongName": "",
     "Description": "Habitual seizures captured during iEEG recording",
     "Levels": {
+      "Yes": "habitual seizures captured",
+      "No": "habitual seizures not captured"
     },
-    "Units": "Yes or No",
+    "Units": "",
     "TermURL": "http://www.todo.com/fixme"
   },
   "failed_resec_SOZ": {
     "LongName": "",
     "Description": "Failed resection of the entire SOZ",
     "Levels": {
+      "Failed": "resection of the entire SOZ failed",
+      "Not failed": "resection of the entire SOZ did not fail"
     },
-    "Units": "Failed or Not_failed",
+    "Units": "",
     "TermURL": "http://www.todo.com/fixme"
   },
   "extra_temporal": {
     "LongName": "",
     "Description": "Need for extra-temporal lobe resection",
     "Levels": {
+      "Needed": "extra-temporal lobe resection needed",
+      "Not needed": "extra-temporal lobe resection not needed"
     },
-    "Units": "Needed or Not_needed",
+    "Units": "",
     "TermURL": "http://www.todo.com/fixme"
   },
   "extent_of_resection": {
     "LongName": "",
     "Description": "Extent of resection",
-    "Levels": {
-    },
-    "Units": " (%)",
+    "Units": "%",
     "TermURL": "http://www.todo.com/fixme"
   },
   "outcome": {
     "LongName": "",
-    "Description": "ILAE Class outcome",
-    "Levels": {
-    },
-    "Units": " 1-6 ",
+    "Description": "ILAE Class outcome (1-6)",
+    "Units": "",
     "TermURL": "http://www.todo.com/fixme"
   },
   "followup": {
     "LongName": "",
     "Description": "Follow-up Period",
-    "Levels": {
-    },
-    "Units": " Derivation or Validation ",
     "TermURL": "http://www.todo.com/fixme"
   },
   "cohort": {
     "LongName": "",
     "Description": "Cohort",
     "Levels": {
+      "Derivation": "derivation cohort",
+      "Validation": "validation cohort"
     },
     "Units": "",
     "TermURL": "http://www.todo.com/fixme"

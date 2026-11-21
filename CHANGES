@@ -1,2 +1,16 @@
+1.0.1 2026-10-22
+  - participants.json: remove the 5 empty Levels of age, asm, extent_of_resection, outcome and followup.
+    Fill the 8 empty Levels of sex, daily_seizure, resected_side, mri, seizure_capture,
+    failed_resec_SOZ, extra_temporal and cohort with the values found in participants.tsv, each with a short description.
+    Units: age "(years)" -> "years", asm "(ASMs)" -> "ASMs", extent_of_resection " (%)" -> "%";
+    the 7 categorical columns whose Units listed their values (e.g. sex "Male or Female") now have Units "";
+    outcome's " 1-6 " moves into its Description ("ILAE Class outcome (1-6)") and its Units becomes "";
+    followup's Units " Derivation or Validation " (the cohort values) is removed.
+    participants.tsv is unchanged. Exact source schema retained under
+    sourcedata/participant-schema-before-empty-enum-fix/participants.json.
+  - Electrode coordinate system: add coordsystem.json (fsaverage/mm) next to each of the 167 electrodes.tsv; the frame is inferred because every contact equals a vertex of the fsaverage pial surface (within 0.001 mm). README: section 'Electrode coordinate system'.
+  - channels.tsv of 167 recordings = the data-file header channel list (name, order, count; matched by name): 18189 rows renamed to the header name, 2 rows added, 47 rows removed (kept in sourcedata/channels-removed-2026-10-18/), 1 files reordered. mne_bids read_raw_bids raised 'Channel mismatch'.
+  - README: section 'Channel names follow the data headers'.
+
 1.0.0 2025-04-09
   - Initial version
